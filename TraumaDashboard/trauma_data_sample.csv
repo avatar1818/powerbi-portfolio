@@ -1,0 +1,151 @@
+PatientID,Gender,Age,InjuryType,GCS,HospitalOutcome,AdmissionDate,HospitalStayDays,SurgeryRequired
+1001,Male,35,Burn,3,Survived,2022-06-18,26,Yes
+1002,Female,35,Fall,10,Survived,2022-03-03,26,No
+1003,Male,33,Blunt trauma,7,Survived,2022-06-22,2,No
+1004,Male,5,Blunt trauma,14,Survived,2022-12-01,22,No
+1005,Male,41,Fall,14,Died,2022-06-02,22,No
+1006,Female,28,Fall,14,Survived,2022-03-23,3,Yes
+1007,Male,7,Fall,7,Survived,2022-10-30,27,No
+1008,Male,73,Road traffic accident,9,Survived,2022-08-30,18,No
+1009,Male,72,Gunshot,6,Died,2022-04-24,12,Yes
+1010,Female,12,Blunt trauma,8,Survived,2022-05-17,1,Yes
+1011,Male,34,Road traffic accident,6,Survived,2022-12-28,22,Yes
+1012,Male,33,Fall,5,Died,2022-12-10,12,Yes
+1013,Male,48,Blunt trauma,9,Survived,2022-05-20,5,Yes
+1014,Male,23,Road traffic accident,10,Survived,2022-04-20,27,Yes
+1015,Female,62,Gunshot,6,Died,2022-06-01,25,Yes
+1016,Male,88,Road traffic accident,4,Died,2022-05-14,17,Yes
+1017,Female,37,Gunshot,14,Survived,2022-12-01,16,No
+1018,Female,44,Fall,12,Survived,2022-05-24,15,No
+1019,Female,86,Gunshot,5,Survived,2022-10-17,23,No
+1020,Male,35,Blunt trauma,3,Survived,2022-09-06,15,No
+1021,Female,65,Fall,10,Survived,2022-01-12,5,No
+1022,Male,47,Blunt trauma,5,Survived,2022-12-17,21,Yes
+1023,Female,78,Burn,14,Survived,2022-01-10,14,No
+1024,Female,3,Penetrating trauma,12,Survived,2022-08-31,2,No
+1025,Female,1,Gunshot,9,Survived,2022-04-30,11,No
+1026,Female,5,Penetrating trauma,12,Survived,2022-06-04,19,No
+1027,Female,14,Penetrating trauma,7,Survived,2022-03-02,7,Yes
+1028,Female,27,Gunshot,12,Survived,2022-06-02,6,Yes
+1029,Female,9,Fall,7,Survived,2022-12-28,28,Yes
+1030,Female,79,Burn,9,Survived,2022-12-15,2,No
+1031,Male,15,Blunt trauma,11,Died,2022-02-15,6,No
+1032,Male,42,Road traffic accident,14,Survived,2022-11-16,18,Yes
+1033,Female,77,Blunt trauma,7,Survived,2022-06-24,2,No
+1034,Female,51,Road traffic accident,3,Survived,2022-05-30,18,No
+1035,Female,63,Blunt trauma,12,Survived,2022-05-28,15,Yes
+1036,Male,52,Gunshot,12,Survived,2022-01-19,27,Yes
+1037,Female,4,Burn,3,Survived,2022-08-20,19,Yes
+1038,Male,23,Road traffic accident,4,Survived,2022-06-20,2,Yes
+1039,Male,15,Fall,8,Survived,2022-08-02,20,Yes
+1040,Male,43,Blunt trauma,11,Survived,2022-12-24,25,Yes
+1041,Male,29,Blunt trauma,10,Survived,2022-08-12,6,Yes
+1042,Male,36,Road traffic accident,7,Survived,2022-02-03,1,Yes
+1043,Female,13,Fall,3,Survived,2022-09-08,24,No
+1044,Female,32,Fall,9,Survived,2022-02-21,15,Yes
+1045,Female,71,Gunshot,7,Died,2022-02-19,28,No
+1046,Female,59,Gunshot,8,Survived,2022-01-21,23,No
+1047,Female,86,Gunshot,9,Survived,2022-08-28,10,No
+1048,Male,28,Gunshot,5,Survived,2022-05-30,19,Yes
+1049,Female,66,Gunshot,14,Died,2022-06-15,17,Yes
+1050,Female,42,Gunshot,12,Died,2022-09-16,5,No
+1051,Male,45,Burn,5,Survived,2022-11-10,29,No
+1052,Female,62,Fall,7,Survived,2022-07-11,4,No
+1053,Male,57,Gunshot,8,Survived,2022-04-25,10,Yes
+1054,Female,6,Fall,11,Survived,2022-11-30,24,Yes
+1055,Male,28,Fall,14,Survived,2022-03-06,17,No
+1056,Female,28,Penetrating trauma,7,Survived,2022-12-06,10,No
+1057,Female,44,Burn,3,Died,2022-12-03,17,No
+1058,Male,84,Gunshot,6,Survived,2022-10-21,28,No
+1059,Male,30,Blunt trauma,7,Survived,2022-11-02,20,Yes
+1060,Male,62,Road traffic accident,14,Survived,2022-03-04,24,No
+1061,Male,75,Blunt trauma,12,Survived,2022-09-01,5,Yes
+1062,Male,89,Burn,12,Survived,2022-11-16,2,Yes
+1063,Male,62,Road traffic accident,7,Survived,2022-03-01,6,No
+1064,Male,1,Burn,9,Survived,2022-02-03,21,No
+1065,Male,27,Fall,6,Survived,2022-03-08,2,Yes
+1066,Female,62,Road traffic accident,3,Survived,2022-02-05,13,Yes
+1067,Female,77,Fall,7,Survived,2022-01-20,11,No
+1068,Male,3,Blunt trauma,9,Died,2022-11-18,11,Yes
+1069,Female,70,Blunt trauma,12,Survived,2022-03-17,16,No
+1070,Female,72,Road traffic accident,12,Survived,2022-10-28,11,Yes
+1071,Female,27,Road traffic accident,8,Died,2022-03-30,19,No
+1072,Female,9,Gunshot,7,Survived,2022-07-02,15,No
+1073,Male,62,Burn,6,Died,2022-02-05,25,Yes
+1074,Female,37,Gunshot,4,Survived,2022-04-02,23,Yes
+1075,Male,51,Burn,6,Died,2022-03-19,23,Yes
+1076,Female,44,Gunshot,12,Survived,2022-07-30,16,Yes
+1077,Female,24,Fall,12,Died,2022-06-25,11,No
+1078,Female,79,Road traffic accident,5,Survived,2022-04-01,22,Yes
+1079,Male,59,Blunt trauma,12,Died,2022-02-25,16,No
+1080,Female,32,Burn,3,Survived,2022-07-24,8,Yes
+1081,Male,88,Burn,10,Survived,2022-08-07,4,No
+1082,Female,52,Blunt trauma,7,Died,2022-08-09,8,No
+1083,Male,62,Gunshot,6,Survived,2022-10-28,4,No
+1084,Female,58,Burn,10,Survived,2022-03-19,24,No
+1085,Male,52,Fall,9,Survived,2022-01-18,25,No
+1086,Male,12,Road traffic accident,4,Survived,2022-03-13,3,Yes
+1087,Female,39,Blunt trauma,3,Survived,2022-12-21,3,No
+1088,Male,2,Road traffic accident,14,Survived,2022-08-04,27,No
+1089,Female,3,Burn,13,Died,2022-10-31,29,No
+1090,Female,56,Burn,6,Survived,2022-07-14,18,Yes
+1091,Female,81,Blunt trauma,10,Survived,2022-04-28,29,No
+1092,Female,59,Fall,14,Died,2022-06-07,26,No
+1093,Female,2,Penetrating trauma,4,Died,2022-01-31,19,Yes
+1094,Female,2,Blunt trauma,5,Survived,2022-12-02,19,Yes
+1095,Female,54,Penetrating trauma,14,Survived,2022-02-12,21,No
+1096,Female,87,Gunshot,3,Survived,2022-12-05,5,No
+1097,Female,1,Penetrating trauma,3,Survived,2022-06-08,18,No
+1098,Female,19,Fall,5,Survived,2022-10-13,28,Yes
+1099,Female,2,Gunshot,13,Survived,2022-04-07,10,No
+1100,Male,53,Penetrating trauma,7,Survived,2022-12-27,29,Yes
+1101,Male,44,Gunshot,14,Survived,2022-09-16,22,Yes
+1102,Female,32,Penetrating trauma,5,Died,2022-08-19,21,Yes
+1103,Female,70,Fall,3,Died,2022-06-10,6,No
+1104,Female,32,Penetrating trauma,3,Survived,2022-10-18,1,No
+1105,Female,68,Penetrating trauma,10,Survived,2022-01-13,5,No
+1106,Female,55,Penetrating trauma,12,Survived,2022-04-10,9,Yes
+1107,Female,75,Blunt trauma,13,Survived,2022-03-02,12,No
+1108,Female,56,Blunt trauma,14,Survived,2022-01-16,26,Yes
+1109,Female,17,Blunt trauma,14,Survived,2022-10-01,14,No
+1110,Male,38,Fall,4,Died,2022-07-07,2,No
+1111,Female,24,Gunshot,5,Survived,2022-07-18,17,Yes
+1112,Male,69,Burn,4,Died,2022-12-25,14,No
+1113,Female,70,Penetrating trauma,5,Survived,2022-06-17,26,Yes
+1114,Female,86,Penetrating trauma,9,Survived,2022-12-21,13,No
+1115,Male,11,Fall,3,Survived,2022-07-26,27,No
+1116,Female,16,Penetrating trauma,12,Died,2022-11-24,9,Yes
+1117,Male,73,Blunt trauma,10,Died,2022-03-02,26,No
+1118,Female,59,Burn,12,Survived,2022-05-01,25,Yes
+1119,Female,70,Road traffic accident,12,Survived,2022-01-13,15,No
+1120,Male,80,Penetrating trauma,12,Survived,2022-09-17,25,No
+1121,Female,3,Blunt trauma,4,Survived,2022-04-09,22,No
+1122,Male,20,Road traffic accident,5,Died,2022-09-01,15,Yes
+1123,Female,59,Burn,11,Survived,2022-07-04,24,No
+1124,Male,36,Road traffic accident,9,Survived,2022-12-01,11,No
+1125,Male,19,Blunt trauma,6,Survived,2022-04-21,16,Yes
+1126,Female,67,Gunshot,12,Died,2022-12-05,29,Yes
+1127,Female,19,Gunshot,7,Survived,2022-04-23,17,No
+1128,Male,20,Road traffic accident,4,Survived,2022-10-21,26,No
+1129,Female,71,Fall,13,Survived,2022-06-21,4,No
+1130,Female,52,Road traffic accident,10,Survived,2022-01-26,1,No
+1131,Female,33,Penetrating trauma,6,Survived,2022-07-04,8,No
+1132,Male,40,Penetrating trauma,11,Survived,2022-06-07,17,Yes
+1133,Male,39,Gunshot,7,Died,2022-01-23,3,Yes
+1134,Male,82,Fall,11,Survived,2022-01-22,29,Yes
+1135,Male,1,Blunt trauma,6,Died,2022-09-20,20,No
+1136,Male,11,Penetrating trauma,12,Died,2022-02-11,15,Yes
+1137,Male,57,Gunshot,7,Survived,2022-04-01,15,No
+1138,Male,89,Burn,11,Survived,2022-12-12,24,No
+1139,Male,50,Gunshot,10,Died,2022-07-19,22,No
+1140,Male,23,Penetrating trauma,5,Survived,2022-02-17,14,Yes
+1141,Female,31,Penetrating trauma,3,Survived,2022-08-18,26,No
+1142,Male,42,Gunshot,5,Survived,2022-05-24,28,Yes
+1143,Female,7,Blunt trauma,6,Survived,2022-01-25,23,No
+1144,Female,16,Road traffic accident,4,Died,2022-06-01,14,Yes
+1145,Female,60,Penetrating trauma,3,Survived,2022-12-22,24,Yes
+1146,Male,2,Gunshot,9,Survived,2022-09-01,2,No
+1147,Male,1,Gunshot,10,Survived,2022-07-09,13,Yes
+1148,Male,48,Fall,9,Survived,2022-08-03,26,Yes
+1149,Male,12,Road traffic accident,7,Survived,2022-09-05,14,No
+1150,Female,69,Burn,14,Survived,2022-06-18,27,No
